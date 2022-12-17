@@ -7,4 +7,10 @@ A Single Page Web Application that works on angular routing.
 
 
 step 1 : Download zip folder
+
+
+
+
+
+
 step 2 : Run index.html on liveserver
